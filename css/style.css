@@ -250,6 +250,26 @@ header{
 .ab_ank span {
     padding: 20px;
 }
+
+#cbp {
+	left: -5% !important;
+	top: 135% !important;
+	color: black;
+}
+
+.#ccn {
+        right: 0;
+        color: black;
+        height: 50px;
+}
+.carousel-control-next {
+	right: 0;
+	bottom: -58%;
+	color: black;
+	left: 18% !important;
+	height: 50px;
+	top: 130% !important;
+}
 /*about section end*/
 
 
